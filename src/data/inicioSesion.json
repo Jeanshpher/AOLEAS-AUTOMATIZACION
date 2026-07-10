@@ -1,0 +1,14 @@
+[
+    {
+        "userName" : "aoleas002", 
+        "password" : "aoleas002",
+        "statusCase" :"acceso_exitoso",
+        "assert":"https://parabank.parasoft.com/parabank/overview.htm"
+    },
+    {
+        "userName" : "aoleas123", 
+        "password" : "aoleas",
+        "statusCase" : "usuario_noexiste",
+        "assert" : "The username and password could not be verified."
+    }
+]

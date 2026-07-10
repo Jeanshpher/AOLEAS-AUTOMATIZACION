@@ -1,0 +1,15 @@
+[
+    {
+        "amount" : "100",
+        "origin_account":"13344",
+        "destination_account" : "13455",
+        "statusCase" :"transferencia_exitosa",
+        "assert":"has been transferred from account"
+    },{
+        "amount" : "5000",
+        "origin_account":"13344",
+        "destination_account" : "13455",
+        "statusCase" :"fondos_insuficientes",
+        "assert":"has been transferred from account"
+    }
+]

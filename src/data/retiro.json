@@ -1,0 +1,14 @@
+[
+    {
+        "statusCase" :"retiro_exitoso",
+        "assert":""
+    },
+    {
+        "statusCase" :"fondos_insuficientes",
+        "assert":"Not found"
+    },
+    {
+        "statusCase" :"monto_invalido",
+        "assert":"Invalid amount"
+    }
+]

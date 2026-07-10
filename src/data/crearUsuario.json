@@ -1,0 +1,62 @@
+[
+    {
+        "firstName" : "ALISSON",
+        "lastName" : "OLEAS",
+        "addres" : "FLORESTA",
+        "city" : "GUAYAQUIL",
+        "State" : "ECUADOR",
+        "zipCode" : "902",
+        "phone" : "0994512859",
+        "ssn" : "0930100839",
+        "userName" : "aoleas",
+        "password" : "aoleas",
+        "confirm" : "aoleas",
+        "statusCase" : "usuario_creado",
+        "assert" : "https://parabank.parasoft.com/parabank/register.htm"
+    },
+    {
+        "firstName" : "ALISSON",
+        "lastName" : "OLEAS",
+        "addres" : "FLORESTA",
+        "city" : "GUAYAQUIL",
+        "State" : "ECUADOR",
+        "zipCode" : "902",
+        "phone" : "0994512859",
+        "ssn" : "0930100839",
+        "userName" : "aoleas5451",
+        "password" : "aoleas",
+        "confirm" : "aoleas121",
+        "statusCase" : "error_confirm",
+        "assert" : "Passwords did not match."
+    },
+    {
+        "firstName" : "ALISSON",
+        "lastName" : "OLEAS",
+        "addres" : "FLORESTA",
+        "city" : "GUAYAQUIL",
+        "State" : "ECUADOR",
+        "zipCode" : "902",
+        "phone" : "0994512859",
+        "ssn" : "0930100839",
+        "userName" : "aoleas",
+        "password" : "aoleas",
+        "confirm" : "aoleas",
+        "statusCase" : "usuario_duplicado",
+        "assert" : "This username already exists."
+    },
+    {
+        "firstName" : "ALISSON",
+        "lastName" : "OLEAS",
+        "addres" : "FLORESTA",
+        "city" : "GUAYAQUIL",
+        "State" : "ECUADOR",
+        "zipCode" : "902",
+        "phone" : "0994512859",
+        "ssn" : "",
+        "userName" : "aoleas78787",
+        "password" : "aoleas",
+        "confirm" : "aoleas",
+        "statusCase" : "ssn_vacio",
+        "assert" : "Social Security Number is required."
+    }
+]
